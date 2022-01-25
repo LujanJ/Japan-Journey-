@@ -1,0 +1,6 @@
+FILE	CAPTION	PRICE	DESCRIPTION
+art.gif	Pixelated image of a temple	9.99	An 8x10 print
+city.png	Tokyo – a bustling metropolitan city	4.99	A 4x6 postcard
+view.jpg	Stunning Scenery	24.99	A 16x20 poster
+pond.gif	A traditional pond with koi	19.99 	A 5x7 watercolor
+sun.png	The country flag as a sunburst	1.99	A 3.5x5 postcard
